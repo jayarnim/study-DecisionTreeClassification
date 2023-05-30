@@ -30,7 +30,7 @@
 
   - [**Practice**]()
 
-- [**`G`radient `B`oosting `M`achine**]()
+- [**`G`radient `B`oosting `M`achine**](https://velog.io/@jayarnim/GBM)
 
   - [**Practice**]()
 
@@ -38,7 +38,7 @@
 
   - [**Practice**]()
 
-- [**`LIGHT` `G`radient `B`oosting `M`achine**]()
+- [**`LIGHT` `G`radient `B`oosting `M`achine**](https://velog.io/@jayarnim/LightGBM)
 
   - [**Practice**]()
 
