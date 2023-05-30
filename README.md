@@ -18,7 +18,7 @@
 
 ## Algorithm
 
-- [**Decision Tree**](https://velog.io/@jayarnim/%EA%B7%A0%EC%9D%BC%EB%8F%84%EC%99%80-Decision-Tree)
+- [**Decision Tree**](https://velog.io/@jayarnim/Decision-Tree)
 
   - [**Practice**]()
 
