@@ -22,7 +22,11 @@
 
   - [**Practice**]()
 
-- [**Random Forest**](https://velog.io/@jayarnim/%EB%B2%88%EC%99%B8-Ensemble)
+- [**Ensemble and Simple Voting**]()
+
+  - [**Practice**]()
+
+- [**Random Forest**](https://velog.io/@jayarnim/Random-Forest)
 
   - [**Practice**]()
 
@@ -30,7 +34,7 @@
 
   - [**Practice**]()
 
-- [**e`X`tra `G`radient `BOOST`ing machine**]()
+- [**e`X`tra `G`radient `BOOST`ing machine**](https://velog.io/@jayarnim/XGBoost)
 
   - [**Practice**]()
 
