@@ -10,7 +10,7 @@
 
 - [**Scikit-Learn Library**](https://velog.io/@jayarnim/Scikit-Learn-Library)
 
-- [**균일도와 손실 함수**](https://velog.io/@jayarnim/%EB%B2%88%EC%99%B8-%EA%B7%A0%EC%9D%BC%EB%8F%84-%EC%B8%A1%EC%A0%95-%EB%B0%A9%EB%B2%95)
+- [**균일도와 손실 함수**](https://velog.io/@jayarnim/%EA%B7%A0%EC%9D%BC%EB%8F%84%EC%99%80-%EC%86%90%EC%8B%A4-%ED%95%A8%EC%88%98)
 
 - [**오차행렬과 성능 평가 지표**](https://velog.io/@jayarnim/%EC%98%A4%EC%B0%A8%ED%96%89%EB%A0%AC%EA%B3%BC-%EC%84%B1%EB%8A%A5-%ED%8F%89%EA%B0%80-%EC%A7%80%ED%91%9C)
 
