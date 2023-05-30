@@ -22,7 +22,7 @@
 
   - [**Practice**]()
 
-- [**Ensemble and Simple Voting**]()
+- [**Ensemble and Voting**](https://velog.io/@jayarnim/Ensemble-and-Voting)
 
   - [**Practice**]()
 
