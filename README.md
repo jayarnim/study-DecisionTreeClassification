@@ -24,8 +24,6 @@
 
 - [**Ensemble and Voting**](https://velog.io/@jayarnim/Ensemble-and-Voting)
 
-  - [**Practice**]()
-
 - [**Random Forest**](https://velog.io/@jayarnim/Random-Forest)
 
   - [**Practice**]()
