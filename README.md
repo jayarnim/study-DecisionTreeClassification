@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=04B431&customColorList=27&height=175&section=header&text=Decision%20Tree&fontSize=60&fontColor=FFA500&animation=twinkling&stroke=FFFFFF&strokeWidth=1" width=100%/>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=04B431&customColorList=27&height=175&section=header&text=Decision%20Tree%20Classification&fontSize=60&fontColor=FFA500&animation=twinkling&stroke=FFFFFF&strokeWidth=1" width=100%/>
 
 - 학습 기간 : 2022. 09. 28.
 
