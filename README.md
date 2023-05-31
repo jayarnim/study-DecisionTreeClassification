@@ -26,19 +26,11 @@
 
 - [**Random Forest**](https://velog.io/@jayarnim/Random-Forest)
 
-  - [**Practice**]()
-
 - [**`G`radient `B`oosting `M`achine**](https://velog.io/@jayarnim/GBM)
-
-  - [**Practice**]()
 
 - [**e`X`treme `G`radient `BOOST`ing machine**](https://velog.io/@jayarnim/XGBoost)
 
-  - [**Practice**]()
-
 - [**`LIGHT` `G`radient `B`oosting `M`achine**](https://velog.io/@jayarnim/LightGBM)
-
-  - [**Practice**]()
 
 <hr>
 
