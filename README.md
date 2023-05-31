@@ -4,23 +4,17 @@
 
 <hr>
 
-## What? Classification Analysis
-
-- [**기계학습의 이해**](https://velog.io/@jayarnim/%EA%B8%B0%EA%B3%84%ED%95%99%EC%8A%B5%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
-
-- [**Scikit-Learn Library**](https://velog.io/@jayarnim/Scikit-Learn-Library)
-
-- [**균일도와 손실 함수**](https://velog.io/@jayarnim/%EA%B7%A0%EC%9D%BC%EB%8F%84%EC%99%80-%EC%86%90%EC%8B%A4-%ED%95%A8%EC%88%98)
-
-- [**오차행렬과 성능 평가 지표**](https://velog.io/@jayarnim/%EC%98%A4%EC%B0%A8%ED%96%89%EB%A0%AC%EA%B3%BC-%EC%84%B1%EB%8A%A5-%ED%8F%89%EA%B0%80-%EC%A7%80%ED%91%9C)
-
-<hr>
-
-## Algorithm
+## What? Deicision Tree
 
 - [**Decision Tree**](https://velog.io/@jayarnim/Decision-Tree)
 
   - [**Practice**]()
+
+- [**균일도와 손실 함수**](https://velog.io/@jayarnim/%EA%B7%A0%EC%9D%BC%EB%8F%84%EC%99%80-%EC%86%90%EC%8B%A4-%ED%95%A8%EC%88%98)
+
+<hr>
+
+## Ensemble based on Decision Tree
 
 - [**Ensemble and Voting**](https://velog.io/@jayarnim/Ensemble-and-Voting)
 
@@ -31,36 +25,6 @@
 - [**e`X`treme `G`radient `BOOST`ing machine**](https://velog.io/@jayarnim/XGBoost)
 
 - [**`LIGHT` `G`radient `B`oosting `M`achine**](https://velog.io/@jayarnim/LightGBM)
-
-<hr>
-
-## Feature Engineering
-
-- [**Encoding**]()
-
-- [**Standardization**]()
-
-- [**Normalization**]()
-
-<hr>
-
-## TroubleShooting
-
-- [**하이퍼파라미터의 최적 아규먼트 탐색하기**]()
-
-- [**과대적합 문제와 데이터 세트 구분하기**]()
-
-- [**과소적합 문제와 층화 추출 교차검증**]()
-
-- [**반응변수 범주 간 관측치 불균형 문제와 OverSampling**]()
-
-<hr>
-
-## Analysis
-
-- [**타이타닉 호 생존자 예측하기**]()
-
-- [**데이터 세트 출처**](https://www.kaggle.com/c/bike-sharing-demand/overview)
 
 <hr>
 
