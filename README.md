@@ -34,7 +34,7 @@
 
   - [**Practice**]()
 
-- [**e`X`tra `G`radient `BOOST`ing machine**](https://velog.io/@jayarnim/XGBoost)
+- [**e`X`treme `G`radient `BOOST`ing machine**](https://velog.io/@jayarnim/XGBoost)
 
   - [**Practice**]()
 
